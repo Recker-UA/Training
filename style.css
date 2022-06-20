@@ -1,0 +1,289 @@
+ /*body {
+	
+	font-family: 'Montserrat', sans-serif;
+
+	font-size: 30px;
+    line-height: 1.6;
+    color: #333;
+
+}*/
+
+
+.wrapperHeader {
+	
+	height: 100px;
+	max-width: 100%;
+
+}
+
+.logo, .butttons {
+	
+	float: left;
+	width: 50%;
+
+}
+
+.logo p {
+	
+	font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 15%;
+
+}
+
+.butttons {
+	
+	font-family: 'Poppins', sans-serif;
+	margin-top: 15px;
+
+}
+
+.ssilka1 {
+	
+  margin-left: 50%;
+	text-decoration: none;/* убираем декорирование */
+	font-size: 20px;
+	color: #000000;
+
+}
+
+.ssilka2 {
+	
+  margin-left: 20px;
+	width: 150px;
+	height: 25px;
+	text-decoration: none;/* убираем декорирование */
+	font-size: 20px;
+	color: #FFFFFF;
+
+	background-color: #2E9AFE;
+  border: none;
+   
+  padding: 20px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 35px;
+
+}
+
+.ssilka2:hover {
+
+	background-color: #013ADF;
+
+}
+
+
+.contentwrapper {
+
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 600px;
+	background-color: #F2F2F2;
+
+}
+
+
+.mycontainer_12 {
+  
+  max-width: 100%;
+
+}
+
+.mygrid_8 {
+
+	display: inline;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+.mycontainer_12 .mygrid_8 {
+
+  width: 500px;
+  margin-left: 5%;
+
+}
+
+.mygrid_9 {
+
+	display: inline;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+.mycontainer_12 .mygrid_9 {
+
+  width: 600px;
+
+}
+
+.TextH1 {
+
+	font-family: 'Hind Siliguri', sans-serif;
+	margin-left: 25px;
+	font-weight: bold;
+  font-size: 90px;
+
+}
+
+.slogan {
+
+	font-family: 'DM Serif Text', serif;
+  margin-left: 25px;
+  font-size: 20px;	
+
+}
+
+.ssilka3 {
+	
+  margin-top: 30px;
+  margin-left: 25px;
+	width: 150px;
+	height: 25px;
+	text-decoration: none;/* убираем декорирование */
+	font-size: 20px;
+	color: #FFFFFF;
+
+	background-color: #FA58F4;
+  border: none;
+  
+  padding: 20px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 35px;
+
+}
+
+.ssilka4 {
+	
+  margin-top: 30px;
+  margin-left: 20px;
+	width: 150px;
+	height: 25px;
+	text-decoration: none;/* убираем декорирование */
+	font-size: 20px;
+	color: #000000;
+
+	background-color: #FFFFFF;
+  border: 3px solid #BDBDBD;
+   
+  padding: 20px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 35px;
+
+
+}
+
+.ssilka3:hover {
+  
+	background-color: #DF01D7;
+
+}
+
+.ssilka4:hover {
+  
+	background-color: #BDBDBD;
+
+}
+
+.cube {
+
+	margin-top: 70px;
+	margin-left: 100px;
+	width: 498px;
+	height: 460px;
+	background-color: #BDBDBD;
+	border-radius: 10px;
+
+}
+
+.contentwrapper1 {
+	
+	max-width: 1170px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 200px;
+
+}
+
+.mygrid_3 {
+
+	display: inline;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+.mycontainer_12 .mygrid_3 {
+
+  width: 175px;
+
+}
+
+.displayedgrid {
+    
+	margin-top: 77px;
+  margin-bottom: 78px;
+
+}
+
+.displayed {
+    
+  display: block;
+  margin-left: auto;
+  margin-right: auto 
+
+}
+
+.contentwrapper2 {
+	
+	max-width: auto;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 600px;
+	background-color: #E0ECF8;
+
+}
+
+.mygrid_10 {
+
+	display: inline;
+  float: left;
+  margin-left: 202px;
+  margin-right: 203px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+
+}
+
+.mycontainer_12 .mygrid_10 {
+
+  width: 765px;
+  height: 460px;
+
+}
+
+
+.contentwrapper3 {
+	
+	max-width: auto;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 1000px;
+	
+}	
